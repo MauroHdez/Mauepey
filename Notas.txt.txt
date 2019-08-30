@@ -7,3 +7,4 @@ Carrito de compras
 5.-Manzana 
 6.-Papaya
 7.-Celular
+8.-Computadora
