@@ -5,3 +5,4 @@ Carrito de compras
 3.-Queso
 4.-Cebolla 
 5.-Manzana 
+6.-Papaya
