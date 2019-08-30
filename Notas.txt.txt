@@ -6,3 +6,4 @@ Carrito de compras
 4.-Cebolla 
 5.-Manzana 
 6.-Papaya
+7.-Celular
