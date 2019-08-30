@@ -8,3 +8,4 @@ Carrito de compras
 6.-Papaya
 7.-Celular
 8.-Computadora
+9.-Pantalla
